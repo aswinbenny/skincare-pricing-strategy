@@ -6,6 +6,19 @@ The goal was to analyze the impact of strategic price adjustments on revenue, pr
 
 ---
 
+## Interactive Tableau Story
+
+Explore the project insights and simulations in this interactive Tableau Story:
+
+[View the Skincare Pricing Strategy Story on Tableau Public](https://public.tableau.com/views/ProductMarginPricingVisualizerSkinSeoul/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+The story includes:
+- Sales and profit analysis by price segment
+- Revenue shifts from strategic price changes
+- An interactive **Subscribe & Save simulator** to test how recurring discounts impact net profit
+
+---
+
 ## Problem Statement
 
 Given sales data, competitor pricing, and stock availability for skincare products, how can we adjust prices to:
